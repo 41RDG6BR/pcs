@@ -1,0 +1,17 @@
+{
+  "aeo": {
+    "serviceUrl": "https://www.senocwb.com/senoportal/rest/services/Petrobras/Mapa_SEAL_Pocos/FeatureServer/1/",
+    "codFieldSeq": "sequencial",
+    "codFieldInst": "isntalacao"
+  },
+  "pocos": {
+    "serviceUrl": "https://www.senocwb.com/senoportal/rest/services/Petrobras/Mapa_SEAL_Pocos/FeatureServer/0/",
+    "codFieldNameCamp": "camp_nm_ca",
+    "codFieldNamePoco": "poco_nm_co"
+  },
+  "propriedades": {
+    "serviceUrl": "https://www.senocwb.com/senoportal/rest/services/Petrobras/Mapa_SEAL_Pocos/FeatureServer/2/",
+    "codFieldProprietar":  "proprietar",
+    "codFieldSeq": "sequencial"
+  }
+}

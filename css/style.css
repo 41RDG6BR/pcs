@@ -1,0 +1,35 @@
+.esri-search .list-item p {
+  margin: 0 15px;
+}
+
+.esri-search .dgrid-list {
+  height: auto;
+  border: 0;
+  position: absolute;
+  top: 35px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.esri-search .list-item {
+  flex-direction: row;
+}
+.esri-search .dgrid-scroller {
+  padding: 10px 10px;
+  overflow: auto;
+}
+.esri-search .list-item {
+  -moz-transition: all, 0.2s, ease-out;
+  -o-transition: all, 0.2s, ease-out;
+  -webkit-transition: all, 0.2s, ease-out;
+  transition: all, 0.2s, ease-out;
+}
+.esri-search .list-item:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.esri-search .div-item {
+  display: flex;
+  flex-direction: row;
+}
